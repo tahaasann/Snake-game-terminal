@@ -62,3 +62,5 @@ For any inquiries, please contact me at tahaasann@gmail.com
 
 **Enjoy the game and happy coding!**
 
+### Contributions:
+[@tahaasann](https://www.github.com/tahaasann)
